@@ -6,5 +6,7 @@ public class Test {
 		return "Test";
 	}
 	
-	
+	public boolean isChanced() {
+		return true;
+	}
 }
